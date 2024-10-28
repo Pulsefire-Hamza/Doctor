@@ -7,6 +7,7 @@ import QualificationsSection from './components/QualificationSection';
 import Service from './components/ServicesSection';
 import TestimonialsSection from './components/TestimonialsSection';
 import Footer from './components/Footer';
+import ImpactSection from './components/ImpactSection';
 
 const App = () => {
   return (
@@ -28,7 +29,7 @@ const App = () => {
           />
           <Route path="/book-appointment" element={<BookAppointment />} />
         </Routes>
-     
+        <Footer />
     </Router>
   );
 };
