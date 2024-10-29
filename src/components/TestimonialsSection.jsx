@@ -15,9 +15,9 @@ const TestimonialsSection = () => {
             <div className="flex items-center space-x-4">
               <div className="w-12 h-12 bg-gray-300 rounded-full flex items-center justify-center">
                 {/* Optional: Insert profile image here */}
-                <span className="text-gray-600 text-xl font-bold">JD</span>
+                <span className="text-gray-600 text-xl font-bold">UK</span>
               </div>
-              <p className="font-semibold text-gray-800">John Doe</p>
+              <p className="font-semibold text-gray-800">Usaman Khan</p>
             </div>
           </div>
 
@@ -29,9 +29,9 @@ const TestimonialsSection = () => {
             <div className="flex items-center space-x-4">
               <div className="w-12 h-12 bg-gray-300 rounded-full flex items-center justify-center">
                 {/* Optional: Insert profile image here */}
-                <span className="text-gray-600 text-xl font-bold">JS</span>
+                <span className="text-gray-600 text-xl font-bold">AJ</span>
               </div>
-              <p className="font-semibold text-gray-800">Jane Smith</p>
+              <p className="font-semibold text-gray-800">Ahsan Jameel</p>
             </div>
           </div>
 
@@ -43,9 +43,9 @@ const TestimonialsSection = () => {
             <div className="flex items-center space-x-4">
               <div className="w-12 h-12 bg-gray-300 rounded-full flex items-center justify-center">
                 {/* Optional: Insert profile image here */}
-                <span className="text-gray-600 text-xl font-bold">EJ</span>
+                <span className="text-gray-600 text-xl font-bold">FH</span>
               </div>
-              <p className="font-semibold text-gray-800">Emily Johnson</p>
+              <p className="font-semibold text-gray-800">Fatima Hassan</p>
             </div>
           </div>
         </div>
